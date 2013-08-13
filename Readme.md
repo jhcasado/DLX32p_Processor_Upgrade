@@ -42,5 +42,3 @@ Para eliminar totalmente las instrucciones NOP del código teníamos que arregla
 
 Pues bien, tras mucha meditación y comprobar que teníamos una unidad de salto en la etapa ID que está siempre ociosa hasta que le llega ya una instrucción salto y se ve obligada a meter siempre una burbuja, nos decidimos por realizar cambios profundos en la arquitectura del procesador para que dicha unidad de saltos tuviera más trabajo. Así surgió nuestra nueva unidad de anticipación de saltos la cual no hace otra cosa que intentar anticipar saltos en instrucciones anteriores a la actual. De esta forma nuestra unidad de anticipación de saltos detectará instrucciones de salto y cambiará el contador de programa a tiempo utilizando la unidad de salto ociosa para que no se interrumpa la ejecución de intrucciones mediante la utilización de burbujas.
 
-De esta nueva unidad y de las demás ampliaremos sus descripciones en el transcurso de la memoria.
- 
