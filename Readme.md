@@ -1,5 +1,8 @@
-﻿DLX32p Processor Upgrade
+DLX32p Processor Upgrade
+------------------------
 (Xillinx, VHDL)
+
+![ScreenShot](https://raw.github.com/jhcasado/screenshots/master/DLX32p_Processor_Upgrade/dlx32p_01.png)
 
 - Modificación del Repertorio de Instrucciones
 
