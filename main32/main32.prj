@@ -1,0 +1,1511 @@
+Created by PCM: 11/15/102
+Empty design C:\TEMP\MAIN32\main32.EDF created: 11/15/102 [8.55.25].
+Document c:\temp\main32\b32x32.vhd added: 11/15/102 [8.55.53].
+Document c:\temp\main32\bancoreg.vhd added: 11/15/102 [8.55.53].
+Document c:\temp\main32\control.vhd added: 11/15/102 [8.55.54].
+Document c:\temp\main32\dlx_pack.vhd added: 11/15/102 [8.55.54].
+Document c:\temp\main32\dlx_prog2.vhd added: 11/15/102 [8.55.55].
+Document c:\temp\main32\dlx32p.vhd added: 11/15/102 [8.55.55].
+Document c:\temp\main32\ex.vhd added: 11/15/102 [8.55.55].
+Document c:\temp\main32\idp.vhd added: 11/15/102 [8.55.56].
+Document c:\temp\main32\if.vhd added: 11/15/102 [8.55.56].
+Document c:\temp\main32\inm.vhd added: 11/15/102 [8.55.56].
+Document c:\temp\main32\main32p.vhd added: 11/15/102 [8.55.57].
+Document c:\temp\main32\mem.vhd added: 11/15/102 [8.55.57].
+Document c:\temp\main32\mem_prog.vhd added: 11/15/102 [8.55.57].
+Document c:\temp\main32\mem16x8d.vhd added: 11/15/102 [8.55.57].
+Document c:\temp\main32\wb.vhd added: 11/15/102 [8.55.58].
+'c:\temp\main32\control.vhd' saved on 02/11/15 09:15
+'c:\temp\main32\control.vhd' saved on 02/11/15 09:15
+'c:\temp\main32\control.vhd' saved on 02/11/15 09:16
+'c:\temp\main32\control.vhd' saved on 02/11/15 09:16
+'c:\temp\main32\control.vhd' saved on 02/11/15 09:17
+'c:\temp\main32\control.vhd' saved on 02/11/15 09:17
+'c:\temp\main32\control.vhd' saved on 02/11/15 09:17
+'c:\temp\main32\control.vhd' saved on 02/11/15 09:18
+'c:\temp\main32\control.vhd' saved on 02/11/15 09:19
+'c:\temp\main32\dlx32p.vhd' saved on 02/11/15 09:29
+'c:\temp\main32\dlx32p.vhd' saved on 02/11/15 09:30
+'c:\temp\main32\dlx32p.vhd' saved on 02/11/15 09:31
+'c:\temp\main32\dlx32p.vhd' saved on 02/11/15 09:31
+'c:\temp\main32\dlx32p.vhd' saved on 02/11/15 09:32
+'c:\temp\main32\dlx32p.vhd' saved on 02/11/15 09:33
+'c:\temp\main32\control.vhd' saved on 02/11/15 09:33
+'c:\temp\main32\idp.vhd' saved on 02/11/15 09:34
+'c:\temp\main32\idp.vhd' saved on 02/11/15 09:35
+'c:\temp\main32\idp.vhd' saved on 02/11/15 09:35
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/15 09:41
+Implementation ver1 updated: 11/15/102 [9.42.29].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/15/102 [9.43.34].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/15/102 [9.45.26].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/15/102 [9.45.44].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\ex.vhd' saved on 02/11/15 09:54
+'c:\temp\main32\control.vhd' saved on 02/11/15 09:56
+'c:\temp\main32\control.vhd' saved on 02/11/15 09:57
+'c:\temp\main32\inm.vhd' saved on 02/11/15 09:57
+'c:\temp\main32\idp.vhd' saved on 02/11/15 09:57
+'c:\temp\main32\dlx32p.vhd' saved on 02/11/15 09:57
+'c:\temp\main32\dlx_pack.vhd' saved on 02/11/15 09:57
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/15 09:57
+'c:\temp\main32\ex.vhd' saved on 02/11/15 09:57
+Implementation ver1 updated: 11/15/102 [9.58.50].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/15/102 [10.0.56].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/15/102 [10.1.28].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\ex.vhd' saved on 02/11/15 10:12
+'c:\temp\main32\ex.vhd' saved on 02/11/15 10:13
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/15 10:14
+'c:\temp\main32\dlx_pack.vhd' saved on 02/11/15 10:14
+'c:\temp\main32\dlx32p.vhd' saved on 02/11/15 10:14
+'c:\temp\main32\idp.vhd' saved on 02/11/15 10:14
+'c:\temp\main32\inm.vhd' saved on 02/11/15 10:14
+'c:\temp\main32\control.vhd' saved on 02/11/15 10:14
+Implementation ver1 updated: 11/15/102 [10.14.50].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/15/102 [10.16.54].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/15/102 [10.17.27].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\ex.vhd' saved on 02/11/15 10:19
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/15 10:19
+'c:\temp\main32\ex.vhd' saved on 02/11/15 10:21
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/15 10:21
+'c:\temp\main32\control.vhd' saved on 02/11/15 10:36
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/15 10:36
+'c:\temp\main32\ex.vhd' saved on 02/11/15 10:36
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/15 10:38
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/15 10:38
+'c:\temp\main32\ex.vhd' saved on 02/11/15 10:38
+'c:\temp\main32\dlx_pack.vhd' saved on 02/11/15 10:38
+'c:\temp\main32\dlx32p.vhd' saved on 02/11/15 10:38
+'c:\temp\main32\inm.vhd' saved on 02/11/15 10:38
+'c:\temp\main32\control.vhd' saved on 02/11/15 10:38
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/15 10:40
+Implementation ver1 updated: 11/15/102 [10.41.20].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/15/102 [10.43.31].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/15/102 [10.43.51].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\idp.vhd' saved on 02/11/20 11:10
+'c:\temp\main32\idp.vhd' saved on 02/11/20 11:10
+'c:\temp\main32\dlx32p.vhd' saved on 02/11/20 11:10
+'c:\temp\main32\idp.vhd' saved on 02/11/20 11:12
+'c:\temp\main32\dlx32p.vhd' saved on 02/11/20 11:12
+'c:\temp\main32\idp.vhd' saved on 02/11/20 11:14
+'c:\temp\main32\dlx32p.vhd' saved on 02/11/20 11:14
+'c:\temp\main32\idp.vhd' saved on 02/11/20 11:15
+'c:\temp\main32\idp.vhd' saved on 02/11/20 11:15
+'c:\temp\main32\idp.vhd' saved on 02/11/20 11:16
+'c:\temp\main32\idp.vhd' saved on 02/11/20 11:16
+Implementation ver1 updated: 11/20/102 [11.17.35].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/20/102 [11.18.50].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/20/102 [11.18.59].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/20 11:28
+Implementation ver1 updated: 11/20/102 [11.29.33].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/20/102 [11.30.49].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/20/102 [11.30.57].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\idp.vhd' saved on 02/11/20 11:36
+'c:\temp\main32\idp.vhd' saved on 02/11/20 11:37
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/20 11:37
+Implementation ver1 updated: 11/20/102 [11.37.44].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/20/102 [11.38.59].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/20/102 [11.39.8].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\idp.vhd' saved on 02/11/20 11:49
+'c:\temp\main32\idp.vhd' saved on 02/11/20 11:49
+'c:\temp\main32\idp.vhd' saved on 02/11/20 11:50
+'c:\temp\main32\idp.vhd' saved on 02/11/20 11:50
+'c:\temp\main32\idp.vhd' saved on 02/11/20 11:50
+'c:\temp\main32\idp.vhd' saved on 02/11/20 11:50
+'c:\temp\main32\dlx32p.vhd' saved on 02/11/20 11:52
+'c:\temp\main32\dlx32p.vhd' saved on 02/11/20 11:52
+'c:\temp\main32\idp.vhd' saved on 02/11/20 11:52
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/20 11:52
+Implementation ver1 updated: 11/20/102 [11.53.3].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/20/102 [11.54.21].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/20/102 [11.54.31].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\control.vhd' saved on 02/11/20 12:01
+'c:\temp\main32\control.vhd' saved on 02/11/20 12:01
+Implementation ver1 updated: 11/20/102 [12.2.21].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/20/102 [12.3.39].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/20/102 [12.3.49].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/20/102 [12.11.49].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/20/102 [12.13.5].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/20/102 [12.13.15].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/20 12:14
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/20 12:14
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/20 12:15
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/20 12:15
+Implementation ver1 updated: 11/20/102 [12.15.41].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/20/102 [12.16.56].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/20/102 [12.17.4].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Document c:\temp\main32\salto.vhd added: 11/20/102 [15.31.58].
+'c:\temp\main32\salto.vhd' saved on 02/11/20 15:50
+'c:\temp\main32\salto.vhd' saved on 02/11/20 15:50
+'c:\temp\main32\salto.vhd' saved on 02/11/20 15:51
+'c:\temp\main32\salto.vhd' saved on 02/11/20 15:51
+'c:\temp\main32\salto.vhd' saved on 02/11/20 15:51
+'c:\temp\main32\salto.vhd' saved on 02/11/20 15:52
+'c:\temp\main32\salto.vhd' saved on 02/11/20 15:52
+'c:\temp\main32\salto.vhd' saved on 02/11/20 15:53
+'c:\temp\main32\salto.vhd' saved on 02/11/20 15:53
+'c:\temp\main32\salto.vhd' saved on 02/11/20 15:54
+'c:\temp\main32\salto.vhd' saved on 02/11/20 15:54
+'c:\temp\main32\salto.vhd' saved on 02/11/20 16:01
+'c:\temp\main32\salto.vhd' saved on 02/11/20 16:01
+'c:\temp\main32\salto.vhd' saved on 02/11/20 16:01
+'c:\temp\main32\salto.vhd' saved on 02/11/20 16:01
+'c:\temp\main32\salto.vhd' saved on 02/11/20 16:01
+'c:\temp\main32\salto.vhd' saved on 02/11/20 16:02
+'c:\temp\main32\salto.vhd' saved on 02/11/20 16:02
+'c:\temp\main32\idp.vhd' saved on 02/11/20 16:12
+'c:\temp\main32\idp.vhd' saved on 02/11/20 16:12
+'c:\temp\main32\idp.vhd' saved on 02/11/20 16:12
+'c:\temp\main32\idp.vhd' saved on 02/11/20 16:14
+'c:\temp\main32\idp.vhd' saved on 02/11/20 16:14
+'c:\temp\main32\idp.vhd' saved on 02/11/20 16:14
+'c:\temp\main32\idp.vhd' saved on 02/11/20 16:14
+'c:\temp\main32\idp.vhd' saved on 02/11/20 16:15
+'c:\temp\main32\idp.vhd' saved on 02/11/20 16:15
+'c:\temp\main32\idp.vhd' saved on 02/11/20 16:15
+'c:\temp\main32\idp.vhd' saved on 02/11/20 16:15
+'c:\temp\main32\idp.vhd' saved on 02/11/20 16:16
+'c:\temp\main32\idp.vhd' saved on 02/11/20 16:16
+'c:\temp\main32\idp.vhd' saved on 02/11/20 16:16
+'c:\temp\main32\idp.vhd' saved on 02/11/20 16:18
+'c:\temp\main32\idp.vhd' saved on 02/11/20 16:18
+'c:\temp\main32\idp.vhd' saved on 02/11/20 16:18
+'c:\temp\main32\idp.vhd' saved on 02/11/20 16:20
+'c:\temp\main32\idp.vhd' saved on 02/11/20 16:20
+'c:\temp\main32\idp.vhd' saved on 02/11/20 16:20
+'c:\temp\main32\idp.vhd' saved on 02/11/20 16:21
+'c:\temp\main32\idp.vhd' saved on 02/11/20 16:21
+'c:\temp\main32\idp.vhd' saved on 02/11/20 16:22
+'c:\temp\main32\idp.vhd' saved on 02/11/20 16:23
+'c:\temp\main32\idp.vhd' saved on 02/11/20 16:24
+'c:\temp\main32\idp.vhd' saved on 02/11/20 16:24
+'c:\temp\main32\dlx32p.vhd' saved on 02/11/20 16:25
+'c:\temp\main32\salto.vhd' saved on 02/11/20 16:26
+'c:\temp\main32\dlx32p.vhd' saved on 02/11/20 16:27
+'c:\temp\main32\idp.vhd' saved on 02/11/20 16:27
+Implementation ver1 updated: 11/20/102 [16.28.39].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/20/102 [16.30.23].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/20/102 [16.30.50].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\inm.vhd' saved on 02/11/20 16:44
+'c:\temp\main32\inm.vhd' saved on 02/11/20 16:45
+'c:\temp\main32\inm.vhd' saved on 02/11/20 16:45
+'c:\temp\main32\inm.vhd' saved on 02/11/20 16:46
+'c:\temp\main32\inm.vhd' saved on 02/11/20 16:46
+'c:\temp\main32\inm.vhd' saved on 02/11/20 16:46
+'c:\temp\main32\inm.vhd' saved on 02/11/20 16:52
+'c:\temp\main32\inm.vhd' saved on 02/11/20 16:53
+'c:\temp\main32\inm.vhd' saved on 02/11/20 17:06
+'c:\temp\main32\inm.vhd' saved on 02/11/20 17:08
+'c:\temp\main32\idp.vhd' saved on 02/11/20 17:09
+'c:\temp\main32\control.vhd' saved on 02/11/20 17:11
+'c:\temp\main32\idp.vhd' saved on 02/11/20 17:13
+'c:\temp\main32\idp.vhd' saved on 02/11/20 17:13
+'c:\temp\main32\control.vhd' saved on 02/11/20 17:13
+'c:\temp\main32\idp.vhd' saved on 02/11/20 17:13
+'c:\temp\main32\inm.vhd' saved on 02/11/20 17:13
+'c:\temp\main32\control.vhd' saved on 02/11/20 17:13
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/20 17:15
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/20 17:15
+Implementation ver1 updated: 11/20/102 [17.15.59].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/20/102 [17.17.9].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/20/102 [17.17.19].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\inm.vhd' saved on 02/11/20 17:19
+'c:\temp\main32\inm.vhd' saved on 02/11/20 17:20
+Implementation ver1 updated: 11/20/102 [17.20.36].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/20/102 [17.21.47].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/20/102 [17.21.57].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\salto.vhd' saved on 02/11/20 17:39
+'c:\temp\main32\salto.vhd' saved on 02/11/20 17:39
+'c:\temp\main32\salto.vhd' saved on 02/11/20 17:55
+'c:\temp\main32\salto.vhd' saved on 02/11/20 17:58
+'c:\temp\main32\salto.vhd' saved on 02/11/20 17:58
+'c:\temp\main32\salto.vhd' saved on 02/11/20 18:01
+'c:\temp\main32\salto.vhd' saved on 02/11/20 18:02
+'c:\temp\main32\control.vhd' saved on 02/11/20 18:07
+'c:\temp\main32\control.vhd' saved on 02/11/20 18:07
+'c:\temp\main32\idp.vhd' saved on 02/11/20 18:09
+'c:\temp\main32\idp.vhd' saved on 02/11/20 18:13
+'c:\temp\main32\idp.vhd' saved on 02/11/20 18:13
+'c:\temp\main32\control.vhd' saved on 02/11/20 18:13
+'c:\temp\main32\control.vhd' saved on 02/11/20 18:13
+'c:\temp\main32\salto.vhd' saved on 02/11/20 18:13
+'c:\temp\main32\salto.vhd' saved on 02/11/20 18:13
+'c:\temp\main32\salto.vhd' saved on 02/11/20 18:14
+'c:\temp\main32\salto.vhd' saved on 02/11/20 18:14
+'c:\temp\main32\salto.vhd' saved on 02/11/20 18:16
+'c:\temp\main32\salto.vhd' saved on 02/11/20 18:16
+'c:\temp\main32\salto.vhd' saved on 02/11/20 18:16
+'c:\temp\main32\salto.vhd' saved on 02/11/20 18:17
+'c:\temp\main32\salto.vhd' saved on 02/11/20 18:17
+'c:\temp\main32\salto.vhd' saved on 02/11/20 18:17
+'c:\temp\main32\salto.vhd' saved on 02/11/20 18:17
+'c:\temp\main32\salto.vhd' saved on 02/11/20 18:17
+'c:\temp\main32\salto.vhd' saved on 02/11/20 18:17
+'c:\temp\main32\salto.vhd' saved on 02/11/20 18:18
+'c:\temp\main32\salto.vhd' saved on 02/11/20 18:18
+'c:\temp\main32\salto.vhd' saved on 02/11/20 18:18
+'c:\temp\main32\salto.vhd' saved on 02/11/20 18:18
+'c:\temp\main32\control.vhd' saved on 02/11/20 18:18
+'c:\temp\main32\idp.vhd' saved on 02/11/20 18:18
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/20 18:22
+Implementation ver1 updated: 11/20/102 [18.22.45].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/20/102 [18.23.58].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/20/102 [18.24.7].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/20/102 [18.28.26].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/20/102 [18.29.39].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/20/102 [18.29.48].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/20 18:38
+'c:\temp\main32\idp.vhd' saved on 02/11/20 18:40
+'c:\temp\main32\inm.vhd' saved on 02/11/20 18:41
+'c:\temp\main32\idp.vhd' saved on 02/11/20 18:41
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/20 18:49
+'c:\temp\main32\salto.vhd' saved on 02/11/20 18:49
+'c:\temp\main32\idp.vhd' saved on 02/11/20 18:49
+'c:\temp\main32\inm.vhd' saved on 02/11/20 18:49
+'c:\temp\main32\control.vhd' saved on 02/11/20 18:49
+Implementation ver1 updated: 11/20/102 [18.49.57].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/20/102 [18.51.11].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/20/102 [18.51.22].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\inm.vhd' saved on 02/11/21 11:00
+'c:\temp\main32\salto.vhd' saved on 02/11/21 11:00
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 11:23
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 11:23
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 11:23
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 11:23
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 11:23
+Implementation ver1 updated: 11/21/102 [11.24.49].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/21/102 [11.26.34].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/21/102 [11.26.52].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 11:31
+'c:\temp\main32\idp.vhd' saved on 02/11/21 12:40
+'c:\temp\main32\salto.vhd' saved on 02/11/21 12:40
+Implementation ver1 updated: 11/21/102 [12.41.58].
+Entity main32p, optimized chip , file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/21/102 [12.44.8].
+Entity DLX32p, non optimized chip, file c:\temp\main32\dlx32p.vhd.Implementation ver1 updated: 11/21/102 [12.45.42].
+Entity DLX32p, optimized chip ver1-Optimized, file c:\temp\main32\dlx32p.vhd.Implementation ver1 updated: 11/21/102 [12.45.54].
+Entity DLX32p, optimized chip ver1-Optimized, file c:\temp\main32\dlx32p.vhd.Implementation ver1 updated: 11/21/102 [15.52.4].
+Entity DLX32p, non optimized chip, file c:\temp\main32\dlx32p.vhd.Implementation ver1 updated: 11/21/102 [15.53.41].
+Entity DLX32p, optimized chip ver1-Optimized, file c:\temp\main32\dlx32p.vhd.Implementation ver1 updated: 11/21/102 [15.53.56].
+Entity DLX32p, optimized chip ver1-Optimized, file c:\temp\main32\dlx32p.vhd.'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 16:14
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 16:47
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 16:52
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 17:00
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 17:00
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 17:00
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 17:12
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 17:14
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 17:14
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 17:14
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 17:14
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 17:14
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 17:15
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 17:15
+Implementation ver1 updated: 11/21/102 [17.16.36].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/21/102 [17.18.26].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/21/102 [17.18.44].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 19:04
+Implementation ver1 updated: 11/21/102 [19.5.49].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/21/102 [19.7.8].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/21/102 [19.7.21].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 19:29
+Implementation ver1 updated: 11/21/102 [19.30.35].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/21/102 [19.31.53].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/21/102 [19.32.4].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 19:47
+Implementation ver1 updated: 11/21/102 [19.47.29].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 19:47
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 19:47
+Implementation ver1 updated: 11/21/102 [19.48.26].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/21/102 [19.49.42].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/21/102 [19.49.53].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 20:01
+Implementation ver1 updated: 11/21/102 [20.1.52].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/21/102 [20.3.11].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\salto.vhd' saved on 02/11/21 20:03
+Implementation ver1 updated: 11/21/102 [20.3.22].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\salto.vhd' saved on 02/11/21 20:04
+'c:\temp\main32\salto.vhd' saved on 02/11/21 20:04
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 20:05
+Implementation ver1 updated: 11/21/102 [20.5.42].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/21/102 [20.6.58].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/21/102 [20.7.10].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 20:09
+'c:\temp\main32\salto.vhd' saved on 02/11/21 20:09
+Implementation ver1 updated: 11/21/102 [20.10.36].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/21/102 [20.11.53].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/21/102 [20.12.4].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 20:17
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 20:20
+Implementation ver1 updated: 11/21/102 [20.21.20].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/21/102 [20.22.38].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/21/102 [20.22.49].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 20:23
+'c:\temp\main32\control.vhd' saved on 02/11/21 20:24
+'c:\temp\main32\inm.vhd' saved on 02/11/21 20:24
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/21 20:25
+Implementation ver1 updated: 11/21/102 [20.25.52].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/21/102 [20.27.9].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/21/102 [20.27.20].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/22 10:45
+'c:\temp\main32\salto.vhd' saved on 02/11/22 10:45
+'c:\temp\main32\salto.vhd' saved on 02/11/22 10:45
+Implementation ver1 updated: 11/22/102 [10.46.52].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/22/102 [10.48.42].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/22/102 [10.49.0].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\control.vhd' saved on 02/11/22 10:52
+'c:\temp\main32\control.vhd' saved on 02/11/22 10:53
+'c:\temp\main32\control.vhd' saved on 02/11/22 10:54
+'c:\temp\main32\inm.vhd' saved on 02/11/22 10:54
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/22 10:54
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/22 11:02
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/22 11:03
+Implementation ver1 updated: 11/22/102 [11.5.35].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/22/102 [11.7.24].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/22/102 [11.7.50].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/25/102 [11.14.52].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/25/102 [11.17.38].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/25/102 [11.19.48].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Schematic entry: 2002/10/25 11:25 
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/25 11:31
+Implementation ver1 updated: 11/25/102 [11.41.2].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/25/102 [11.43.39].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/25/102 [11.45.16].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/25/102 [12.2.13].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/25/102 [12.5.25].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/25/102 [12.7.20].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/27/102 [10.48.44].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/27/102 [10.50.33].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/27/102 [10.50.49].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/27 11:08
+Implementation ver1 updated: 11/27/102 [11.9.35].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/27/102 [11.11.22].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/27/102 [11.11.43].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/27 11:29
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/27 11:34
+Implementation ver1 updated: 11/27/102 [11.35.52].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/27/102 [11.37.45].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/27/102 [11.38.4].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/27 11:55
+'c:\temp\main32\salto.vhd' saved on 02/11/27 11:56
+'c:\temp\main32\salto.vhd' saved on 02/11/27 11:56
+'c:\temp\main32\dlx_prog2.vhd' saved on 02/11/27 11:57
+Implementation ver1 updated: 11/27/102 [11.58.15].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/27/102 [12.0.8].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/27/102 [12.0.28].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/27/102 [15.17.15].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/27/102 [15.18.56].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/27/102 [15.20.45].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/27/102 [15.21.10].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\salto.vhd' saved on 02/11/27 15:44
+Implementation ver1 updated: 11/27/102 [17.58.52].
+Entity DLX32p, non optimized chip, file c:\temp\main32\dlx32p.vhd.Implementation ver1 updated: 11/27/102 [18.0.26].
+Entity DLX32p, optimized chip ver1-Optimized, file c:\temp\main32\dlx32p.vhd.Implementation ver1 updated: 11/27/102 [18.0.42].
+Entity DLX32p, optimized chip ver1-Optimized, file c:\temp\main32\dlx32p.vhd.'c:\temp\main32\idp.vhd' saved on 02/11/27 18:28
+'c:\temp\main32\salto.vhd' saved on 02/11/27 18:28
+'c:\temp\main32\idp.vhd' saved on 02/11/27 18:31
+'c:\temp\main32\inm.vhd' saved on 02/11/27 18:31
+'c:\temp\main32\salto.vhd' saved on 02/11/27 18:31
+'c:\temp\main32\inm.vhd' saved on 02/11/27 18:34
+'c:\temp\main32\inm.vhd' saved on 02/11/27 18:34
+'c:\temp\main32\salto.vhd' saved on 02/11/27 18:36
+'c:\temp\main32\inm.vhd' saved on 02/11/27 18:36
+'c:\temp\main32\idp.vhd' saved on 02/11/27 18:36
+'c:\temp\main32\salto.vhd' saved on 02/11/27 18:38
+'c:\temp\main32\inm.vhd' saved on 02/11/27 18:38
+'c:\temp\main32\idp.vhd' saved on 02/11/27 18:38
+'c:\temp\main32\salto.vhd' saved on 02/11/27 18:38
+Implementation ver1 updated: 11/27/102 [18.39.24].
+Entity main32p, non optimized chip, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/27/102 [18.41.10].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.Implementation ver1 updated: 11/27/102 [18.41.42].
+Entity main32p, optimized chip ver1-Optimized, file c:\temp\main32\main32p.vhd.'c:\temp\main32\salto.vhd' saved on 02/11/27 18:42
+'c:\temp\main32\salto.vhd' saved on 02/11/27 18:42
+'c:\temp\main32\inm.vhd' saved on 02/11/27 18:43
+'c:\temp\main32\idp.vhd' saved on 02/11/27 18:44
+'c:\temp\main32\control.vhd' saved on 02/11/27 18:52
+'c:\temp\main32\idp.vhd' saved on 02/11/27 18:55
+'c:\temp\main32\ex.vhd' saved on 02/11/27 19:04
+'c:\temp\main32\ex.vhd' saved on 02/11/27 19:05
+'c:\temp\main32\idp.vhd' saved on 02/11/27 19:10
+'c:\temp\main32\inm.vhd' saved on 02/11/27 19:13
+'c:\temp\main32\idp.vhd' saved on 02/11/27 19:14
+'c:\temp\main32\dlx32p.vhd' saved on 02/11/27 19:21
+'c:\temp\main32\dlx32p.vhd' saved on 02/11/27 19:21
+Implementation ver1 updated: 11/27/102 [19.22.20].
+Entity DLX32p, non optimized chip, file c:\temp\main32\dlx32p.vhd.Implementation ver1 updated: 11/27/102 [19.24.57].
+Entity DLX32p, optimized chip ver1-Optimized, file c:\temp\main32\dlx32p.vhd.Implementation ver1 updated: 11/27/102 [19.25.9].
+Entity DLX32p, optimized chip ver1-Optimized, file c:\temp\main32\dlx32p.vhd.'c:\temp\main32\idp.vhd' saved on 02/11/28 12:50
+'c:\temp\main32\ex.vhd' saved on 02/11/28 12:52
+'c:\temp\main32\control.vhd' saved on 02/11/28 16:29
+'c:\temp\main32\control.vhd' saved on 02/11/28 16:37
+Implementation ver1 updated: 8/25/103 [1.3.33].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/25/103 [1.6.4].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/25/103 [1.6.8].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/26 02:09
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/26 02:10
+Implementation ver1 updated: 8/26/103 [2.12.22].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/26/103 [2.14.49].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/26/103 [2.14.49].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/26 02:20
+Implementation ver1 updated: 8/26/103 [2.21.22].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/26/103 [2.23.50].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/26/103 [2.23.52].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/28 17:56
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/28 17:57
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/28 17:57
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/28 17:58
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/28 18:02
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/28 18:03
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/28 18:03
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/28 18:04
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/28 18:04
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/28 18:04
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/28 18:04
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/28 18:05
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/28 18:06
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/28 18:07
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/28 18:07
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/28 18:10
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/28 18:14
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/28 18:18
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/28 18:24
+Implementation ver1 updated: 8/28/103 [18.24.40].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/28/103 [18.27.6].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/28/103 [18.27.10].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/28 18:57
+Implementation ver1 updated: 8/28/103 [18.57.45].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/28/103 [18.59.58].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/28/103 [19.0.2].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/28 19:06
+Implementation ver1 updated: 8/28/103 [19.6.29].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/28/103 [19.8.57].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/28/103 [19.9.0].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/28/103 [20.56.32].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/28/103 [20.58.58].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/28/103 [20.59.0].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/28 21:10
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/28 21:10
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/28 21:10
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/28 21:11
+Implementation ver1 updated: 8/28/103 [21.11.29].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/28/103 [21.14.1].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/28/103 [21.14.6].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/28 21:15
+Implementation ver1 updated: 8/28/103 [21.16.17].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/28/103 [21.18.41].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/28/103 [21.18.41].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/28 21:52
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/28 21:52
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/28 21:53
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/08/28 21:57
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/08/28 21:57
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/28 21:57
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/08/28 22:01
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/08/28 22:01
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/08/28 22:01
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/28 22:02
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/08/28 22:05
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/08/28 22:05
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/28 22:15
+Implementation ver1 updated: 8/28/103 [22.15.33].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/28/103 [22.18.0].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/28/103 [22.18.0].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/28 22:22
+Implementation ver1 updated: 8/28/103 [22.22.37].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/28/103 [22.25.4].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/28/103 [22.25.4].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/28 22:41
+Implementation ver1 updated: 8/28/103 [22.42.3].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/28/103 [22.44.30].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/28/103 [22.44.32].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/08/28 22:47
+Implementation ver1 updated: 8/28/103 [22.48.16].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/28/103 [22.50.52].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/28/103 [22.50.56].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/28 22:54
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/28 22:55
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/08/28 22:55
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/28 22:56
+Implementation ver1 updated: 8/28/103 [22.57.12].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/28/103 [22.59.40].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/28/103 [22.59.41].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/29 02:34
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/29 02:34
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/29 02:35
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/29 02:36
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/29 02:36
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/29 02:36
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/29 02:37
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/29 02:38
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/29 02:38
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/29 02:40
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/29 02:40
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/29 03:01
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/29 03:02
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/29 03:05
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/29 03:11
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/29 03:12
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/29 03:18
+Implementation ver1 updated: 8/29/103 [3.18.40].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/29/103 [3.21.22].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/29/103 [3.21.26].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/29 03:27
+'c:\xilinx\active\projects\main32\if.vhd' saved on 03/08/29 12:49
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/29 12:50
+'c:\xilinx\active\projects\main32\control.vhd' saved on 03/08/29 14:07
+'c:\xilinx\active\projects\main32\control.vhd' saved on 03/08/29 14:07
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/08/29 14:09
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/08/29 14:09
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/29 15:40
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 16:48
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 17:05
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 17:05
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/30 17:08
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/30 17:08
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/30 17:08
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/30 17:09
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/30 17:09
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/30 17:10
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/30 17:10
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/30 17:10
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/30 17:11
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/30 17:11
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/30 17:11
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/30 17:11
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/30 17:12
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/30 17:12
+Implementation ver1 updated: 8/30/103 [17.13.28].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 17:37
+Implementation ver1 updated: 8/30/103 [17.37.43].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 17:43
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 17:43
+Implementation ver1 updated: 8/30/103 [17.44.19].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 17:45
+Implementation ver1 updated: 8/30/103 [17.45.21].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 17:46
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 17:46
+Implementation ver1 updated: 8/30/103 [17.46.46].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 17:48
+Implementation ver1 updated: 8/30/103 [17.48.34].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/30/103 [17.50.57].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/30/103 [17.50.57].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/30/103 [18.21.54].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/30/103 [18.24.18].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 18:24
+Implementation ver1 updated: 8/30/103 [18.24.20].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 18:24
+Implementation ver1 updated: 8/30/103 [18.24.51].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 18:26
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 18:26
+Implementation ver1 updated: 8/30/103 [18.26.32].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/30/103 [18.28.58].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/30/103 [18.29.0].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/30 18:45
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/30 18:45
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/30 18:45
+Implementation ver1 updated: 8/30/103 [18.45.57].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/30/103 [18.48.19].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/30/103 [18.48.20].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 19:00
+Implementation ver1 updated: 8/30/103 [19.0.55].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/30/103 [19.2.57].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/30/103 [19.3.1].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 19:05
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 19:05
+Implementation ver1 updated: 8/30/103 [19.7.27].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/30/103 [19.9.52].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/30/103 [19.9.53].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\if.vhd' saved on 03/08/30 19:14
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 19:14
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 19:14
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 19:15
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 19:15
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 19:16
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 19:17
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 19:17
+Implementation ver1 updated: 8/30/103 [19.18.23].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/30/103 [19.20.28].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/30/103 [19.20.28].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 19:30
+Implementation ver1 updated: 8/30/103 [19.30.35].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/30/103 [19.32.39].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/30/103 [19.32.40].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 19:34
+Implementation ver1 updated: 8/30/103 [19.35.21].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/30/103 [19.37.44].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/30/103 [19.37.45].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/30 19:43
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/30 19:43
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 19:45
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 19:48
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 19:48
+Implementation ver1 updated: 8/30/103 [19.48.39].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 19:49
+Implementation ver1 updated: 8/30/103 [19.50.13].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 19:51
+Implementation ver1 updated: 8/30/103 [19.51.23].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 19:52
+Implementation ver1 updated: 8/30/103 [19.52.41].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 20:00
+Implementation ver1 updated: 8/30/103 [20.0.21].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 20:03
+Implementation ver1 updated: 8/30/103 [20.5.13].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 20:05
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 20:05
+Implementation ver1 updated: 8/30/103 [20.5.54].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 20:06
+Implementation ver1 updated: 8/30/103 [20.6.57].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/30/103 [20.8.58].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/30/103 [20.9.2].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/30 20:14
+Implementation ver1 updated: 8/30/103 [20.14.54].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/30/103 [20.16.56].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/30/103 [20.16.58].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 20:25
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 20:25
+Implementation ver1 updated: 8/30/103 [20.25.45].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 20:26
+Implementation ver1 updated: 8/30/103 [20.26.31].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 20:27
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 20:27
+Implementation ver1 updated: 8/30/103 [20.27.30].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 20:28
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/30 20:28
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 01:52
+Implementation ver1 updated: 8/31/103 [1.53.59].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [1.56.8].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [1.56.10].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 01:57
+Implementation ver1 updated: 8/31/103 [1.59.9].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [2.1.13].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [2.1.14].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 02:01
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 02:08
+Implementation ver1 updated: 8/31/103 [2.8.52].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [2.11.19].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [2.11.19].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 02:16
+Implementation ver1 updated: 8/31/103 [2.16.42].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [2.19.6].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [2.19.6].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 02:19
+Implementation ver1 updated: 8/31/103 [2.20.22].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [2.22.24].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [2.22.24].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\if.vhd' saved on 03/08/31 02:30
+'c:\xilinx\active\projects\main32\if.vhd' saved on 03/08/31 02:30
+'c:\xilinx\active\projects\main32\if.vhd' saved on 03/08/31 02:32
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 02:32
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 02:32
+Implementation ver1 updated: 8/31/103 [2.33.17].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [2.35.21].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [2.35.23].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 02:37
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 02:37
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 02:37
+Implementation ver1 updated: 8/31/103 [2.38.10].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [2.41.26].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [2.41.29].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 02:46
+Implementation ver1 updated: 8/31/103 [11.14.14].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [11.17.28].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [11.17.28].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 11:20
+Implementation ver1 updated: 8/31/103 [11.21.5].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [11.23.7].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [11.23.9].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 11:25
+Implementation ver1 updated: 8/31/103 [11.25.57].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [11.27.59].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [11.28.0].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 11:29
+Implementation ver1 updated: 8/31/103 [11.29.59].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [11.32.1].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [11.32.5].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 11:34
+Implementation ver1 updated: 8/31/103 [11.35.11].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [11.37.12].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [11.37.14].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 11:41
+Implementation ver1 updated: 8/31/103 [11.41.35].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [11.43.38].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [11.43.38].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 11:46
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 11:46
+Implementation ver1 updated: 8/31/103 [11.46.48].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [11.48.49].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [11.48.49].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 11:53
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 11:54
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 11:54
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 11:54
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 11:54
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 11:54
+Implementation ver1 updated: 8/31/103 [11.55.8].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [11.57.11].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [11.57.12].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 12:01
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 12:01
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 12:02
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 12:02
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 12:02
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 12:02
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 12:02
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 12:03
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 12:03
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 12:04
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 12:05
+Implementation ver1 updated: 8/31/103 [12.5.39].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [12.7.44].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [12.7.45].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 12:21
+Implementation ver1 updated: 8/31/103 [12.22.17].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [12.24.20].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [12.24.20].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 12:25
+Implementation ver1 updated: 8/31/103 [12.25.37].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [12.27.41].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [12.27.43].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 12:31
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 12:31
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 12:31
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 12:31
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 12:33
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 12:33
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 12:33
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 12:33
+Implementation ver1 updated: 8/31/103 [12.34.23].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [12.36.48].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [12.36.49].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 12:40
+Implementation ver1 updated: 8/31/103 [12.43.36].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [12.46.1].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [12.46.2].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 12:51
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 12:51
+Implementation ver1 updated: 8/31/103 [12.52.14].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 12:53
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 12:53
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 12:53
+Implementation ver1 updated: 8/31/103 [12.54.26].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 12:54
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 12:54
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 12:57
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 12:57
+Implementation ver1 updated: 8/31/103 [12.58.36].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [13.1.2].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [13.1.6].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 13:11
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 13:11
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 13:11
+Implementation ver1 updated: 8/31/103 [13.12.25].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [13.14.51].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [13.14.53].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 13:30
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 13:30
+Implementation ver1 updated: 8/31/103 [13.31.10].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 13:35
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 13:35
+Implementation ver1 updated: 8/31/103 [13.35.46].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [13.38.10].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [13.38.15].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 13:41
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 13:47
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 13:47
+Implementation ver1 updated: 8/31/103 [13.47.33].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [13.50.1].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [13.50.1].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 13:52
+Implementation ver1 updated: 8/31/103 [13.53.5].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [13.55.32].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [13.55.32].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 13:57
+Implementation ver1 updated: 8/31/103 [13.58.1].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [14.0.27].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [14.0.29].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 14:01
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 14:01
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/08/31 14:12
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 14:12
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 14:13
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/08/31 14:18
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/08/31 14:19
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/08/31 14:19
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 14:20
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 14:21
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 14:22
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 14:22
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 14:22
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 14:22
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 14:22
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/08/31 14:22
+Implementation ver1 updated: 8/31/103 [14.23.2].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [14.25.28].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [14.25.29].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 16:40
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/08/31 16:45
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/08/31 16:45
+Document c:\xilinx\active\projects\main32\burbujas.vhd added: 8/31/103 [19.51.57].
+'c:\xilinx\active\projects\main32\burbujas.vhd' saved on 03/08/31 19:53
+'c:\xilinx\active\projects\main32\burbujas.vhd' saved on 03/08/31 19:53
+'c:\xilinx\active\projects\main32\burbujas.vhd' saved on 03/08/31 20:09
+'c:\xilinx\active\projects\main32\burbujas.vhd' saved on 03/08/31 20:09
+'c:\xilinx\active\projects\main32\burbujas.vhd' saved on 03/08/31 20:09
+'c:\xilinx\active\projects\main32\burbujas.vhd' saved on 03/08/31 20:09
+'c:\xilinx\active\projects\main32\burbujas.vhd' saved on 03/08/31 20:14
+'c:\xilinx\active\projects\main32\burbujas.vhd' saved on 03/08/31 20:17
+'c:\xilinx\active\projects\main32\burbujas.vhd' saved on 03/08/31 20:18
+'c:\xilinx\active\projects\main32\burbujas.vhd' saved on 03/08/31 20:18
+'c:\xilinx\active\projects\main32\burbujas.vhd' saved on 03/08/31 20:19
+'c:\xilinx\active\projects\main32\burbujas.vhd' saved on 03/08/31 20:19
+'c:\xilinx\active\projects\main32\burbujas.vhd' saved on 03/08/31 20:20
+'c:\xilinx\active\projects\main32\burbujas.vhd' saved on 03/08/31 20:22
+'c:\xilinx\active\projects\main32\burbujas.vhd' saved on 03/08/31 20:22
+'c:\xilinx\active\projects\main32\burbujas.vhd' saved on 03/08/31 20:23
+'c:\xilinx\active\projects\main32\burbujas.vhd' saved on 03/08/31 20:23
+'c:\xilinx\active\projects\main32\burbujas.vhd' saved on 03/08/31 20:23
+'c:\xilinx\active\projects\main32\burbujas.vhd' saved on 03/08/31 20:23
+'c:\xilinx\active\projects\main32\burbujas.vhd' saved on 03/08/31 20:24
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/08/31 20:25
+'c:\xilinx\active\projects\main32\burbujas.vhd' saved on 03/08/31 20:28
+'c:\xilinx\active\projects\main32\burbujas.vhd' saved on 03/08/31 20:28
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 20:33
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 20:34
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 20:34
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 20:35
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/08/31 20:38
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/08/31 20:38
+'c:\xilinx\active\projects\main32\burbujas.vhd' saved on 03/08/31 20:38
+Implementation ver1 updated: 8/31/103 [20.39.15].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [20.41.31].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [20.41.33].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 20:49
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 20:49
+Implementation ver1 updated: 8/31/103 [20.49.42].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [20.51.57].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [20.51.57].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 20:53
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 20:55
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 20:55
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 20:56
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 20:56
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 20:57
+Implementation ver1 updated: 8/31/103 [20.57.42].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/08/31 21:01
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 21:06
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 21:07
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 21:08
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 21:08
+Implementation ver1 updated: 8/31/103 [21.9.10].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [21.11.19].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 8/31/103 [21.11.23].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/08/31 21:31
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/01 17:48
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/01 17:48
+Implementation ver1 updated: 9/1/103 [17.49.10].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/1/103 [17.51.30].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/1/103 [17.51.31].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/01 17:53
+Implementation ver1 updated: 9/1/103 [17.54.11].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/1/103 [17.56.31].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/1/103 [17.56.33].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/09/02 12:46
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/09/02 12:46
+Implementation ver1 updated: 9/2/103 [12.47.18].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/2/103 [12.49.28].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/2/103 [12.49.28].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/09/02 13:03
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/09/02 13:04
+Implementation ver1 updated: 9/2/103 [13.4.32].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/2/103 [13.6.40].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/2/103 [13.6.40].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 13:24
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 13:24
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 13:27
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 13:27
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 13:31
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 13:32
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 13:32
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 13:32
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 13:32
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 13:33
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 13:33
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 13:33
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 13:33
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/09/02 13:35
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/09/02 13:37
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/09/02 13:37
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/09/02 13:37
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/09/02 13:37
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/09/02 13:37
+Implementation ver1 updated: 9/2/103 [13.38.13].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/2/103 [13.40.24].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/2/103 [13.40.25].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/09/02 13:46
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 13:48
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 13:48
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/09/02 13:48
+Implementation ver1 updated: 9/2/103 [13.49.24].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/2/103 [13.51.31].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/2/103 [13.51.32].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/09/02 13:52
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/09/02 13:53
+Implementation ver1 updated: 9/2/103 [13.53.39].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/2/103 [13.55.46].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/2/103 [13.55.48].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\control.vhd' saved on 03/09/02 14:06
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 14:08
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 14:08
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 14:09
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 14:09
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 14:10
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 14:10
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 14:11
+Implementation ver1 updated: 9/2/103 [14.11.34].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/2/103 [14.13.46].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/2/103 [14.13.47].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\ex.vhd' saved on 03/09/02 14:19
+'c:\xilinx\active\projects\main32\salto.vhd' saved on 03/09/02 14:19
+Implementation ver1 updated: 9/2/103 [14.19.56].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/2/103 [14.22.15].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/2/103 [14.22.15].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Document c:\xilinx\active\projects\main32\anticipaciones.vhd added: 9/2/103 [16.48.14].
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 16:54
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 16:54
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 17:04
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 17:06
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 17:08
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 17:09
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 17:14
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 17:15
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 17:15
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 17:15
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/02 17:21
+'c:\xilinx\active\projects\main32\anticipaciones.vhd' saved on 03/09/02 17:28
+'c:\xilinx\active\projects\main32\anticipaciones.vhd' saved on 03/09/02 17:28
+'c:\xilinx\active\projects\main32\anticipaciones.vhd' saved on 03/09/02 17:29
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/02 17:36
+'c:\xilinx\active\projects\main32\anticipaciones.vhd' saved on 03/09/02 17:36
+'c:\xilinx\active\projects\main32\anticipaciones.vhd' saved on 03/09/02 17:37
+'c:\xilinx\active\projects\main32\anticipaciones.vhd' saved on 03/09/02 17:37
+'c:\xilinx\active\projects\main32\anticipaciones.vhd' saved on 03/09/02 17:37
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/02 17:37
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 17:37
+Implementation ver1 updated: 9/2/103 [17.37.55].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/2/103 [17.39.56].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/2/103 [17.39.57].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 18:00
+'c:\xilinx\active\projects\main32\anticipaciones.vhd' saved on 03/09/02 18:00
+'c:\xilinx\active\projects\main32\anticipaciones.vhd' saved on 03/09/02 18:00
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 18:01
+Implementation ver1 updated: 9/2/103 [18.1.41].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/2/103 [18.3.13].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/2/103 [18.3.14].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/02 18:41
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/03 00:20
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/03 00:20
+'c:\xilinx\active\projects\main32\anticipaciones.vhd' saved on 03/09/03 00:30
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/03 00:31
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/09/03 00:36
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/09/03 00:36
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/09/03 00:36
+Implementation ver1 updated: 9/3/103 [0.37.3].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/3/103 [0.38.34].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/3/103 [0.38.37].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/09/03 00:39
+Implementation ver1 updated: 9/3/103 [0.40.3].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/3/103 [0.41.36].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/3/103 [0.41.37].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/09/03 00:43
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/09/03 00:43
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/09/03 00:43
+Implementation ver1 updated: 9/3/103 [0.44.12].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/3/103 [0.45.44].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/3/103 [0.45.48].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/09/03 00:50
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/09/03 00:50
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/03 00:51
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/03 00:59
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/03 00:59
+Implementation ver1 updated: 9/3/103 [1.0.20].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/3/103 [1.2.52].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/3/103 [1.2.52].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/03 01:15
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/03 01:17
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/03 01:17
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/03 01:17
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/03 01:18
+Implementation ver1 updated: 9/3/103 [1.18.51].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/3/103 [1.20.18].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/3/103 [1.20.19].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/03 01:27
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/03 01:30
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/03 01:32
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/03 01:32
+Implementation ver1 updated: 9/3/103 [1.33.19].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/3/103 [1.35.9].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/3/103 [1.35.9].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/03 01:41
+Implementation ver1 updated: 9/3/103 [1.42.3].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/3/103 [1.44.18].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/3/103 [1.44.18].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/03 01:46
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/03 01:47
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/03 01:47
+Implementation ver1 updated: 9/3/103 [1.47.32].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/3/103 [1.49.24].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/3/103 [1.49.24].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/3/103 [1.51.39].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/3/103 [1.53.33].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/3/103 [1.53.34].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/03 01:57
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/03 01:58
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/03 01:58
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/03 01:58
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/03 02:00
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/03 02:00
+Implementation ver1 updated: 9/3/103 [2.0.35].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/3/103 [2.2.19].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/3/103 [2.2.19].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/03 02:08
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/03 02:08
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/03 02:08
+Implementation ver1 updated: 9/3/103 [2.8.50].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/3/103 [2.10.34].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/3/103 [2.10.35].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/03 02:14
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/03 02:14
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/03 02:14
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/03 02:14
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/03 02:14
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/03 02:14
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/03 02:15
+Implementation ver1 updated: 9/3/103 [2.15.35].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/3/103 [2.17.8].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/3/103 [2.17.10].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/03 13:20
+Implementation ver1 updated: 9/3/103 [13.20.35].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/3/103 [13.22.9].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/3/103 [13.22.10].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/3/103 [13.24.51].
+Entity DLX32p, non optimized chip, file c:\xilinx\active\projects\main32\dlx32p.vhd.Implementation ver1 updated: 9/3/103 [13.26.14].
+Entity DLX32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\dlx32p.vhd.Implementation ver1 updated: 9/3/103 [13.26.17].
+Entity DLX32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\dlx32p.vhd.Implementation ver1 updated: 9/3/103 [13.45.17].
+Entity DLX32p, non optimized chip, file c:\xilinx\active\projects\main32\dlx32p.vhd.Implementation ver1 updated: 9/3/103 [13.46.32].
+Entity DLX32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\dlx32p.vhd.Implementation ver1 updated: 9/3/103 [13.46.35].
+Entity DLX32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\dlx32p.vhd.Implementation ver1 updated: 9/6/103 [12.21.36].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/6/103 [12.23.12].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/6/103 [12.23.15].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\control.vhd' saved on 03/09/06 12:35
+'c:\xilinx\active\projects\main32\control.vhd' saved on 03/09/06 12:35
+'c:\xilinx\active\projects\main32\control.vhd' saved on 03/09/06 12:35
+'c:\xilinx\active\projects\main32\control.vhd' saved on 03/09/06 12:35
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/06 12:36
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/06 12:36
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/06 12:37
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/06 12:37
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/06 12:37
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/06 12:38
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/06 12:38
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/06 12:39
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/06 12:39
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/09/06 12:44
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/09/06 12:52
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/09/06 12:52
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/09/06 12:52
+Implementation ver1 updated: 9/6/103 [12.53.13].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/6/103 [12.54.47].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/6/103 [12.54.48].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\salto.vhd' saved on 03/09/06 12:57
+'c:\xilinx\active\projects\main32\ex.vhd' saved on 03/09/06 12:57
+Implementation ver1 updated: 9/6/103 [12.58.25].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/6/103 [13.0.38].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/6/103 [13.0.38].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/6/103 [13.33.17].
+Entity DLX32p, non optimized chip, file c:\xilinx\active\projects\main32\dlx32p.vhd.Implementation ver1 updated: 9/6/103 [13.35.19].
+Entity DLX32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\dlx32p.vhd.Implementation ver1 updated: 9/6/103 [13.35.24].
+Entity DLX32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\dlx32p.vhd.'c:\xilinx\active\projects\main32\salto.vhd' saved on 03/09/06 16:28
+'c:\xilinx\active\projects\main32\ex.vhd' saved on 03/09/06 16:28
+'c:\xilinx\active\projects\main32\salto.vhd' saved on 03/09/06 16:28
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/06 16:29
+'c:\xilinx\active\projects\main32\if.vhd' saved on 03/09/06 16:31
+'c:\xilinx\active\projects\main32\if.vhd' saved on 03/09/06 16:31
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/06 16:33
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/06 16:34
+'c:\xilinx\active\projects\main32\main32p.vhd' saved on 03/09/06 16:38
+'c:\xilinx\active\projects\main32\main32p.vhd' saved on 03/09/06 16:38
+'c:\xilinx\active\projects\main32\main32p.vhd' saved on 03/09/06 16:38
+'c:\xilinx\active\projects\main32\main32p.vhd' saved on 03/09/06 16:38
+'c:\xilinx\active\projects\main32\main32p.vhd' saved on 03/09/06 16:39
+'c:\xilinx\active\projects\main32\main32p.vhd' saved on 03/09/06 16:39
+'c:\xilinx\active\projects\main32\main32p.vhd' saved on 03/09/06 16:39
+'c:\xilinx\active\projects\main32\main32p.vhd' saved on 03/09/06 16:39
+'c:\xilinx\active\projects\main32\main32p.vhd' saved on 03/09/06 16:39
+'c:\xilinx\active\projects\main32\mem_prog.vhd' saved on 03/09/06 16:40
+'c:\xilinx\active\projects\main32\mem_prog.vhd' saved on 03/09/06 16:40
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/06 16:41
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/06 16:41
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/06 16:42
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/06 16:43
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/06 16:45
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/06 16:46
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/06 16:47
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/06 16:50
+'c:\xilinx\active\projects\main32\salto.vhd' saved on 03/09/06 16:50
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/06 16:52
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/06 16:53
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/06 16:53
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/06 16:53
+'c:\xilinx\active\projects\main32\salto.vhd' saved on 03/09/06 16:54
+'c:\xilinx\active\projects\main32\salto.vhd' saved on 03/09/06 16:55
+'c:\xilinx\active\projects\main32\salto.vhd' saved on 03/09/06 16:55
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/06 16:57
+'c:\xilinx\active\projects\main32\salto.vhd' saved on 03/09/06 16:58
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/06 16:59
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/06 16:59
+'c:\xilinx\active\projects\main32\salto.vhd' saved on 03/09/06 16:59
+Implementation ver1 updated: 9/6/103 [17.0.21].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/6/103 [17.2.11].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/6/103 [17.2.16].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/06 17:09
+'c:\xilinx\active\projects\main32\if.vhd' saved on 03/09/06 17:11
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/06 17:11
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/06 17:12
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/06 17:12
+Implementation ver1 updated: 9/6/103 [17.12.31].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/06 17:13
+Implementation ver1 updated: 9/6/103 [17.14.24].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/6/103 [17.14.30].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/06 17:14
+Implementation ver1 updated: 9/6/103 [17.15.3].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/6/103 [17.16.53].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/6/103 [17.16.53].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\salto.vhd' saved on 03/09/06 17:19
+Implementation ver1 updated: 9/6/103 [17.21.1].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/6/103 [17.22.56].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/6/103 [17.22.58].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\salto.vhd' saved on 03/09/06 17:26
+'c:\xilinx\active\projects\main32\salto.vhd' saved on 03/09/06 17:26
+'c:\xilinx\active\projects\main32\salto.vhd' saved on 03/09/06 17:26
+'c:\xilinx\active\projects\main32\salto.vhd' saved on 03/09/06 17:27
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/06 17:27
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/06 17:27
+Implementation ver1 updated: 9/6/103 [17.28.6].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/6/103 [17.29.57].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/6/103 [17.30.0].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/6/103 [17.40.6].
+Entity DLX32p, non optimized chip, file c:\xilinx\active\projects\main32\dlx32p.vhd.Implementation ver1 updated: 9/6/103 [17.41.45].
+Entity DLX32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\dlx32p.vhd.Implementation ver1 updated: 9/6/103 [17.41.49].
+Entity DLX32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\dlx32p.vhd.'c:\xilinx\active\projects\main32\salto.vhd' saved on 03/09/06 20:13
+'c:\xilinx\active\projects\main32\b32x32.vhd' saved on 03/09/13 13:02
+'c:\xilinx\active\projects\main32\b32x32.vhd' saved on 03/09/13 13:03
+'c:\xilinx\active\projects\main32\b32x32.vhd' saved on 03/09/13 13:04
+'c:\xilinx\active\projects\main32\b32x32.vhd' saved on 03/09/13 13:04
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/13 13:41
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/13 13:41
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/13 13:41
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/13 13:41
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/13 13:43
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/13 13:43
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/13 13:43
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/13 13:44
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/13 13:46
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/13 16:00
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/13 16:00
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/13 16:00
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/13 16:00
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/13 16:01
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/13 16:03
+'c:\xilinx\active\projects\main32\main32p.vhd' saved on 03/09/13 16:10
+'c:\xilinx\active\projects\main32\main32p.vhd' saved on 03/09/13 16:10
+'c:\xilinx\active\projects\main32\main32p.vhd' saved on 03/09/13 16:10
+'c:\xilinx\active\projects\main32\mem_prog.vhd' saved on 03/09/13 16:12
+'c:\xilinx\active\projects\main32\mem_prog.vhd' saved on 03/09/13 16:12
+'c:\xilinx\active\projects\main32\mem_prog.vhd' saved on 03/09/13 16:12
+'c:\xilinx\active\projects\main32\mem_prog.vhd' saved on 03/09/13 16:13
+Implementation ver1 updated: 9/13/103 [16.14.42].
+Entity DLX32p, non optimized chip, file c:\xilinx\active\projects\main32\dlx32p.vhd.Implementation ver1 updated: 9/13/103 [16.15.59].
+Entity DLX32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\dlx32p.vhd.Implementation ver1 updated: 9/13/103 [16.16.2].
+Entity DLX32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\dlx32p.vhd.Implementation ver1 updated: 9/13/103 [16.18.2].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/13/103 [16.19.23].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/13/103 [16.19.28].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\salto.vhd' saved on 03/09/13 16:23
+'c:\xilinx\active\projects\main32\salto.vhd' saved on 03/09/13 16:24
+'c:\xilinx\active\projects\main32\salto.vhd' saved on 03/09/13 16:24
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/13 16:25
+Implementation ver1 updated: 9/13/103 [16.25.33].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/13/103 [16.27.28].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/13/103 [16.27.28].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\main32p.vhd' saved on 03/09/13 16:29
+'c:\xilinx\active\projects\main32\main32p.vhd' saved on 03/09/13 16:29
+Implementation ver1 updated: 9/13/103 [16.29.47].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/13/103 [16.31.46].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/13/103 [16.31.47].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/13 16:34
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/13 16:34
+Implementation ver1 updated: 9/13/103 [16.34.46].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/13/103 [16.36.35].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/13/103 [16.36.36].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/13 19:04
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/13 19:07
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/13 19:07
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/13 19:13
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/13 19:15
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/13 19:16
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/13 19:18
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/13 19:19
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/13 19:19
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/13 19:26
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/13 19:26
+Document c:\xilinx\active\projects\main32\anticipa_saltos.vhd added: 9/13/103 [19.56.12].
+'c:\xilinx\active\projects\main32\anticipaciones.vhd' saved on 03/09/13 19:59
+'c:\xilinx\active\projects\main32\anticipaciones.vhd' saved on 03/09/13 19:59
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/13 20:00
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/13 20:00
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/13 20:21
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/13 20:21
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/13 20:22
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/13 20:22
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/13 20:22
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/13 20:25
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/13 20:41
+'c:\xilinx\active\projects\main32\burbujas.vhd' saved on 03/09/13 20:46
+'c:\xilinx\active\projects\main32\burbujas.vhd' saved on 03/09/13 20:46
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/13 20:54
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/13 20:56
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/13 20:58
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/13 21:00
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/13 21:03
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 01:42
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 01:51
+'c:\xilinx\active\projects\main32\if.vhd' saved on 03/09/14 01:53
+'c:\xilinx\active\projects\main32\if.vhd' saved on 03/09/14 01:53
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/14 01:55
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/14 01:56
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/14 01:58
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/14 01:58
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 01:59
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 02:00
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 02:31
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 02:31
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/14 02:34
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 02:38
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 11:42
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 11:44
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 11:44
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 11:47
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 11:49
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 11:49
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 11:52
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 11:56
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 12:02
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 12:03
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 12:03
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 12:04
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 12:05
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 12:06
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 12:06
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 12:06
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 12:06
+Implementation ver1 updated: 9/14/103 [12.9.33].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [12.11.4].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [12.11.4].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/14 12:17
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/14 12:18
+Implementation ver1 updated: 9/14/103 [12.18.34].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [12.20.6].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [12.20.9].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 12:26
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 12:26
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 12:28
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 12:28
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 12:28
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 12:30
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 12:30
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 12:35
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 12:35
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 12:36
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 12:36
+'c:\xilinx\active\projects\main32\salto.vhd' saved on 03/09/14 12:37
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 12:38
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 12:41
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 12:45
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 12:46
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 12:46
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 12:46
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 12:49
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 12:49
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 12:49
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 12:49
+Implementation ver1 updated: 9/14/103 [12.50.18].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [12.53.20].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [12.53.20].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 12:54
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 12:54
+Implementation ver1 updated: 9/14/103 [12.55.25].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [13.0.10].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [13.0.11].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 13:17
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 13:17
+Implementation ver1 updated: 9/14/103 [13.18.10].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [13.20.56].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [13.20.58].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 13:31
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 13:31
+Implementation ver1 updated: 9/14/103 [13.31.57].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [13.34.44].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [13.34.44].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 13:38
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 13:38
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 13:41
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 13:41
+Implementation ver1 updated: 9/14/103 [13.41.48].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [13.45.26].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [13.45.33].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 15:59
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 16:05
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 16:05
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 16:06
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 16:11
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 16:12
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 16:12
+Implementation ver1 updated: 9/14/103 [16.12.50].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [16.15.22].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [16.15.29].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 16:21
+Implementation ver1 updated: 9/14/103 [16.22.27].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [16.25.34].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [16.25.36].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [18.4.52].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [18.7.40].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [18.7.41].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 18:26
+Implementation ver1 updated: 9/14/103 [18.26.34].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [18.28.23].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [18.28.23].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/14 18:32
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/14 18:32
+Implementation ver1 updated: 9/14/103 [18.33.17].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [18.35.40].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [18.35.46].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 18:41
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 18:41
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 18:41
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 18:43
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 18:43
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 18:44
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 18:44
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 18:44
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/14 18:46
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/14 18:46
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/14 18:46
+Implementation ver1 updated: 9/14/103 [18.47.20].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [18.48.59].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [18.49.0].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 19:28
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 19:28
+Implementation ver1 updated: 9/14/103 [19.29.16].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [19.31.29].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [19.31.33].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 19:34
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 19:34
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 19:35
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 19:35
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 19:35
+Implementation ver1 updated: 9/14/103 [19.35.46].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [19.37.55].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [19.37.56].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 19:44
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 19:44
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 19:44
+Implementation ver1 updated: 9/14/103 [19.45.25].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [19.47.43].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [19.47.48].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 19:49
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 19:49
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 19:50
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 19:50
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 19:51
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 19:51
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/14 19:52
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/14 19:53
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/14 19:53
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/14 19:53
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/14 19:53
+Implementation ver1 updated: 9/14/103 [19.53.52].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [19.56.16].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [19.56.19].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/14/103 [20.0.37].
+Entity DLX32p, non optimized chip, file c:\xilinx\active\projects\main32\dlx32p.vhd.Implementation ver1 updated: 9/14/103 [20.2.44].
+Entity DLX32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\dlx32p.vhd.Implementation ver1 updated: 9/14/103 [20.2.50].
+Entity DLX32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\dlx32p.vhd.'c:\xilinx\active\projects\main32\b32x32.vhd' saved on 03/09/14 23:05
+'c:\xilinx\active\projects\main32\b32x32.vhd' saved on 03/09/14 23:09
+'c:\xilinx\active\projects\main32\b32x32.vhd' saved on 03/09/14 23:09
+'c:\xilinx\active\projects\main32\dlx_prog2.vhd' saved on 03/09/14 23:23
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/14 23:39
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/14 23:42
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/15 12:33
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/15 12:33
+'c:\xilinx\active\projects\main32\b32x32.vhd' saved on 03/09/15 12:39
+'c:\xilinx\active\projects\main32\b32x32.vhd' saved on 03/09/15 12:39
+'c:\xilinx\active\projects\main32\if.vhd' saved on 03/09/15 12:40
+'c:\xilinx\active\projects\main32\if.vhd' saved on 03/09/15 12:40
+'c:\xilinx\active\projects\main32\if.vhd' saved on 03/09/15 12:47
+'c:\xilinx\active\projects\main32\if.vhd' saved on 03/09/15 12:47
+'c:\xilinx\active\projects\main32\main32p.vhd' saved on 03/09/15 12:50
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/15 17:56
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/15 17:56
+'c:\xilinx\active\projects\main32\control.vhd' saved on 03/09/15 17:59
+'c:\xilinx\active\projects\main32\control.vhd' saved on 03/09/15 17:59
+'c:\xilinx\active\projects\main32\control.vhd' saved on 03/09/15 17:59
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/15 18:00
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/15 18:00
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/15 18:00
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/15 18:00
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/15 18:00
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/15 18:01
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/15 18:01
+'c:\xilinx\active\projects\main32\control.vhd' saved on 03/09/15 18:05
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/15 18:05
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/15 18:05
+'c:\xilinx\active\projects\main32\salto.vhd' saved on 03/09/15 18:11
+'c:\xilinx\active\projects\main32\salto.vhd' saved on 03/09/15 18:12
+'c:\xilinx\active\projects\main32\salto.vhd' saved on 03/09/15 18:12
+'c:\xilinx\active\projects\main32\control.vhd' saved on 03/09/15 18:13
+'c:\xilinx\active\projects\main32\control.vhd' saved on 03/09/15 18:13
+'c:\xilinx\active\projects\main32\burbujas.vhd' saved on 03/09/15 18:14
+'c:\xilinx\active\projects\main32\burbujas.vhd' saved on 03/09/15 18:20
+'c:\xilinx\active\projects\main32\anticipaciones.vhd' saved on 03/09/15 18:21
+'c:\xilinx\active\projects\main32\anticipaciones.vhd' saved on 03/09/15 18:21
+'c:\xilinx\active\projects\main32\anticipaciones.vhd' saved on 03/09/15 18:28
+'c:\xilinx\active\projects\main32\anticipaciones.vhd' saved on 03/09/15 18:28
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/15 18:37
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/15 18:38
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/15 18:38
+'c:\xilinx\active\projects\main32\anticipaciones.vhd' saved on 03/09/15 18:41
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/15 19:28
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/15 19:28
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/15 19:35
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/15 19:35
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/15 19:43
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/15 19:43
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/15 19:56
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/15 19:56
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/15 19:58
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/15 20:00
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/15 20:00
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/15 20:01
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/15 20:03
+'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/15 20:03
+Implementation ver1 updated: 9/15/103 [20.3.54].
+Entity main32p, non optimized chip, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/15/103 [20.7.7].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/15/103 [20.7.13].
+Entity main32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\main32p.vhd.Implementation ver1 updated: 9/15/103 [20.13.58].
+Entity DLX32p, non optimized chip, file c:\xilinx\active\projects\main32\dlx32p.vhd.Implementation ver1 updated: 9/15/103 [20.17.0].
+Entity DLX32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\dlx32p.vhd.Implementation ver1 updated: 9/15/103 [20.17.4].
+Entity DLX32p, optimized chip ver1-Optimized, file c:\xilinx\active\projects\main32\dlx32p.vhd.'c:\xilinx\active\projects\main32\anticipa_saltos.vhd' saved on 03/09/15 20:27
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/15 20:28
+'c:\xilinx\active\projects\main32\inm.vhd' saved on 03/09/15 20:28
+'c:\xilinx\active\projects\main32\mem_prog.vhd' saved on 03/09/15 20:29
+'c:\xilinx\active\projects\main32\mem_prog.vhd' saved on 03/09/15 20:29
+'c:\xilinx\active\projects\main32\dlx32p.vhd' saved on 03/09/15 20:30
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/16 02:45
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/16 02:46
+'c:\xilinx\active\projects\main32\idp.vhd' saved on 03/09/16 02:46
